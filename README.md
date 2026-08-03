@@ -45,8 +45,7 @@ This project presents an interactive banking analytics dashboard built using Pow
 ---
 ## 🎥 Dashboard Demo
 
-[📹 Watch the demo video by downloading]:(./demo.mp4)
-
+<video src="https://github.com/user-attachments/assets/c303aa80-3973-4565-bc2a-55ff4692096b" controls width="100%"></video>
 
 ---
 
