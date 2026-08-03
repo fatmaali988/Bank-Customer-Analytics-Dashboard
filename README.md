@@ -27,7 +27,7 @@ This project presents an interactive banking analytics dashboard built using Pow
 ![Executive Dashboard](Executive Dashboard.jpeg)
 
 ### Customer Analysis
-![Customer Analysis](customer Analysis.jpeg)
+![customer Analysis](customer Analysis.jpeg)
 
 ### Card Analysis
 ![Card Analysis](Card Analysis.jpeg)
