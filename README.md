@@ -9,7 +9,6 @@ This project presents an interactive banking analytics dashboard built using Pow
 - Power BI
 - SQL
 - Python
-- Excel
 
 ---
 
