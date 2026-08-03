@@ -9,8 +9,17 @@ This project presents an interactive banking analytics dashboard built using Pow
 - Power BI
 - SQL
 - Python
-
 ---
+## 📈 Key Features
+
+✔ Executive KPI Dashboard
+✔ Customer Segmentation
+✔ Card Performance Analysis
+✔ Transaction Analysis
+✔ Credit Risk Analysis
+✔ Interactive Power BI Visualizations
+
+----
 
 ## 📊 Dashboard Pages
 
@@ -30,10 +39,10 @@ This project presents an interactive banking analytics dashboard built using Pow
 ![Credit & Risk Analysis](Credit & Risk Analysis.jpeg)
 
 ---
-
 ## 🎥 Dashboard Demo
 
-demo.mp4
+📹 Watch the demo video by downloading:
+**demo.mp4**
 
 ---
 
@@ -42,11 +51,14 @@ demo.mp4
 Dashboard.pdf
 
 ---
-
 ## 👩‍💻 Author
 
 **Fatma Ali Hamouda**
 
-LinkedIn:
+🔗 LinkedIn:
 https://www.linkedin.com/in/fatma-ali-b4997525b
-Update READM
+
+💻 GitHub:
+https://github.com/fatmaali988
+
+
