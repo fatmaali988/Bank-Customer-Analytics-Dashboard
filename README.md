@@ -12,12 +12,12 @@ This project presents an interactive banking analytics dashboard built using Pow
 ---
 ## 📈 Key Features
 
-✔ Executive KPI Dashboard
-✔ Customer Segmentation
-✔ Card Performance Analysis
-✔ Transaction Analysis
-✔ Credit Risk Analysis
-✔ Interactive Power BI Visualizations
+*✔ Executive KPI Dashboard
+*✔ Customer Segmentation
+*✔ Card Performance Analysis
+*✔ Transaction Analysis
+*✔ Credit Risk Analysis
+*✔ Interactive Power BI Visualizations
 
 ----
 
@@ -41,14 +41,14 @@ This project presents an interactive banking analytics dashboard built using Pow
 ---
 ## 🎥 Dashboard Demo
 
-📹 Watch the demo video by downloading:
-**demo.mp4**
+[📹 Watch the demo video by downloading]:
+(./demo.mp4)
 
 ---
 
 ## 📄 Dashboard PDF
 
-Dashboard.pdf
+[Download Dashboard PDF](./Dashboard.pdf)
 
 ---
 ## 👩‍💻 Author
