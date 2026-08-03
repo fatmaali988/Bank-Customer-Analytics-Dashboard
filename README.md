@@ -12,37 +12,41 @@ This project presents an interactive banking analytics dashboard built using Pow
 ---
 ## 📈 Key Features
 
-*✔ Executive KPI Dashboard
-*✔ Customer Segmentation
-*✔ Card Performance Analysis
-*✔ Transaction Analysis
-*✔ Credit Risk Analysis
-*✔ Interactive Power BI Visualizations
+* ✔ Executive KPI Dashboard
+* ✔ Customer Segmentation
+* ✔ Card Performance Analysis
+* ✔ Transaction Analysis
+* ✔ Credit Risk Analysis
+* ✔ Interactive Power BI Visualizations
 
 ----
+
+
 
 ## 📊 Dashboard Pages
 
 ### Executive Dashboard
-![Executive Dashboard](Executive Dashboard.jpeg)
+![Executive Dashboard](./Executive%20Dashboard.jpeg)
 
 ### Customer Analysis
-![customer Analysis](customer Analysis.jpeg)
+![Customer Analysis](./Customer%20Analysis.jpeg)
 
 ### Card Analysis
-![Card Analysis](Card Analysis.jpeg)
+![Card Analysis](./Card%20Analysis.jpeg)
 
 ### Transaction Analysis
-![Transaction Analysis](Transaction Analysis.jpeg)
+![Transaction Analysis](./Transaction%20Analysis.jpeg)
 
 ### Credit & Risk Analysis
-![Credit & Risk Analysis](Credit & Risk Analysis.jpeg)
+![Credit & Risk Analysis](./Credit%20%26%20Risk%20Analysis.jpeg)
+
+
 
 ---
 ## 🎥 Dashboard Demo
 
-[📹 Watch the demo video by downloading]:
-(./demo.mp4)
+[📹 Watch the demo video by downloading]:(./demo.mp4)
+
 
 ---
 
@@ -56,9 +60,9 @@ This project presents an interactive banking analytics dashboard built using Pow
 **Fatma Ali Hamouda**
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/fatma-ali-b4997525b
+[ Fatma Ali](https://www.linkedin.com/in/fatma-ali-b4997525b)
 
 💻 GitHub:
-https://github.com/fatmaali988
+[fatmaali988](https://github.com/fatmaali988)
 
 
