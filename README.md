@@ -4,6 +4,13 @@
 This project presents an interactive banking analytics dashboard built using Power BI to analyze customer behavior, credit risk, transactions, and executive KPIs.
 
 ---
+### 📂 Dataset
+
+The dataset used in this project is available on Kaggle:
+
+[Home Credit Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
+
+---
 
 ## 🛠 Tools Used
 - Power BI
